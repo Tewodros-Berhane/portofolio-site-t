@@ -175,6 +175,7 @@ header h2 {
 }
 .header-links .cv-btn:hover {
   background: #e3f2fd;
+  color: #1976d2;
 }
 .header-links a:hover {
   box-shadow: 0 8px 20px #21a1f350;
