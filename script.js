@@ -9,12 +9,6 @@ document.querySelectorAll('nav ul li a').forEach(link => {
   });
 });
 
-// Fake form submission (demo purpose)
-document.getElementById('contact-form').addEventListener('submit', function() {
-  alert('Thank you for reaching out! (Form submission is disabled in demo.)');
-});
-
-
 const menuIcon = document.getElementById('menu-icon');
 const navLinks = document.querySelector('nav ul');
 
