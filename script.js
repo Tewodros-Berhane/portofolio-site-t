@@ -25,8 +25,10 @@ navLinks.querySelectorAll('a').forEach(link => {
 const roles = [
   "Software Engineer",
   "Backend Developer",
-  "Laravel & Python Enthusiast",
-  "API & Database Specialist"
+  "Laravel & Nodejs Enthusiast",
+  "Web3 Enthusiast",
+  "Python and AI Engineer",
+  "API & Database Specialist",
 ];
 let i = 0, j = 0, typing, isDeleting = false;
 
